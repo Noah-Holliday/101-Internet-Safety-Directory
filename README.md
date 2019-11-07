@@ -9,4 +9,4 @@ The primary stake-holders are people who have trouble keeping themselves safe wh
 
 [Live App](https://repl.it)
 
-My Project Board(https://github.com/Noah-Holliday/101-Internet-Safety-Directory/projects/1)
+[Project Board](https://github.com/Noah-Holliday/101-Internet-Safety-Directory/projects/1)
