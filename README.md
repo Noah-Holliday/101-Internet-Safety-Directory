@@ -1,8 +1,9 @@
-# [Project Name]
+# Internet Safety Directory
 
-[Value Proposition]
+For non-tech-savvy people who have a hard time navigating and staying safe on the web, the internet safety directory is a product that houses articles on common issues and security concerns the average person will run across on the internet; so that non-tech-savvy people can better protect themselves.
 
-[As needed, provide more about what the applicaiton does, the primary stakeholders and the value it brings each.]
+The app is place that houses articles on general safety concerns while using the web, as well 
+The primary stake-holders are people who have trouble keeping themselves safe while doing basic internet actions. 
 
 ## Links
 
