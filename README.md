@@ -7,6 +7,6 @@ The primary stake-holders are people who have trouble keeping themselves safe wh
 
 ## Links
 
-[Live App](https://repl.it)
+[Live App](https://repl.it/@noevholl/Internet-Safety-Directory)
 
 [Project Board](https://github.com/Noah-Holliday/101-Internet-Safety-Directory/projects/1)
